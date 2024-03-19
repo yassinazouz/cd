@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Yassin Azzouz",
+      "class": "L2DSi2",
+      "address": "Hafsia",
+      "email": "serjazouz@gmail.com",
+      "city": "Tunis",
+      "password": "24654"
+    }
+  
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
